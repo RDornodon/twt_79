@@ -48,7 +48,7 @@ Some possible errors:
 # Name of your file with solution. If its not in same folder as this script
 # add absolute path or relative to CWD (Current Working Directory - directory from
 # which you run this script)
-SOLUTION_FILE_NAME = "to_submit_ch_79.py"
+SOLUTION_FILE_NAME = "twt_79.py"
 
 # Command to run your solution written in other language then Python
 # For compiled languages compile yourself and use compiled executable file name

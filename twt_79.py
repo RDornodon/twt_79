@@ -1,0 +1,1 @@
+for I in[I:=input]*int(I()):Q=*map(ord,I()+I()),;print(''.join(chr(q^Q[-1])for q in Q[:-1]))
